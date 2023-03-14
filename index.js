@@ -36,7 +36,9 @@ function prependCat(name) {
 function removeLastCat() {
     return cats.slice(0, cats.length-1);
 }
+//8 down
 
 function removeFirstCat() {
     return cats.slice(1);
 }
+//done
